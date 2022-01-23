@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rakshithvikas
-- 👀 I’m interested in Web development and machine learning
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in machine learning and deep neural networks
+- 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on Machine learning
 
 <!---
